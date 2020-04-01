@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585780485 source:c:\users\moisés\desktop\pilhacliente\sistemacliente\cliente.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1585778883 c:\users\moisés\desktop\pilhacliente\sistemacliente\cliente.h
+
+1585780645 source:c:\users\moisés\desktop\pilhacliente\sistemacliente\main.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
