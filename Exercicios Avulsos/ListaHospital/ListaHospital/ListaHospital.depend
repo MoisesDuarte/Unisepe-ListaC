@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586998292 source:c:\users\moisés\desktop\listahospital\listahospital\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"hospital.h"
+
+1586997808 c:\users\moisés\desktop\listahospital\listahospital\hospital.h
+
+1586998371 source:c:\users\moisés\desktop\listahospital\listahospital\hospital.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"hospital.h"
+
